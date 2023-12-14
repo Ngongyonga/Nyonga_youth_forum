@@ -5,3 +5,8 @@
 echo 'Jesus is lord'
 changes made
 deployment four
+
+echo 'what is your name?'
+read name
+echo 'today's date is?'
+read date
