@@ -10,3 +10,5 @@ echo 'what is your name?'
 read name
 echo 'today's date is?'
 read date
+
+new lines of code
